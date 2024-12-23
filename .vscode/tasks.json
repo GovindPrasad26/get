@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "client/react",
+			"problemMatcher": [],
+			"label": "npm: dev - client/react",
+			"detail": "vite"
+		}
+	]
+}

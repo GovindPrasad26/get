@@ -1,0 +1,22 @@
+#space{
+
+  display: flex;
+  justify-content: space-evenly;
+
+ }
+table{
+  background-color: aquamarine;
+  width: 700px;
+  height: 200px;
+ 
+}
+button{
+  color: red;
+  background-color: black;
+  width: 150px;
+  height: 30px;
+  border-color: azure;
+}
+button:hover{
+  background-color: blueviolet;
+}
